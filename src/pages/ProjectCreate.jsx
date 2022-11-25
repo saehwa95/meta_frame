@@ -1,15 +1,12 @@
 import React from "react";
 import Category from "../Components/Category";
-import FrameBox from "../Components/FrameBox";
-import Theme from "../Components/Theme";
+import CreateTitle from "../Components/CreateTitle";
 
 const projectCreate = () => {
   return (
     <>
       <Category />
-      <FrameBox>
-        <Theme />
-      </FrameBox>
+      <CreateTitle />
     </>
   );
 };
