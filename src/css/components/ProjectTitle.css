@@ -1,0 +1,28 @@
+.wrap {
+  display: flex;
+  align-items: center;
+  width: 88%;
+  height: 40px;
+  border-bottom: 1px solid #808080;
+  border-top: 1px solid #808080;
+  color: black;
+}
+
+.project-title {
+  width: 10%;
+  height: 40px;
+  font-size: 20px;
+  background-color: #808080;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title-content {
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 10px;
+  width: 500%;
+  height: 33px;
+}

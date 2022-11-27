@@ -24,7 +24,7 @@ const CategoryBar = styled.div`
   align-items: flex-start;
   flex-direction: column;
   float: left;
-  width: 250px;
+  width: 12%;
   height: 100vh;
   background-color: #2d2d2d;
 `

@@ -1,0 +1,17 @@
+.meta-place {
+  margin: 10px 0 10px 10px;
+}
+.meta-place__setting{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.personnel{
+  margin: 0 5px 0 10px;
+}
+
+.person-option {
+  margin: 0 5px 0 5px;
+  width: 70px;
+  text-align: center;
+}
